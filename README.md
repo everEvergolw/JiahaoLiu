@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full stack developer in React</h3>
 <img align="right" width="50%" style="margin-left:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=everEvergolw&label=Profile%20views&color=0e75b6&style=flat" alt="jiahao" /> </p>
-
 - I am currently developing my new project, OnlineShop Web - [FrontEnd](https://github.com/abeertech01/redbook-client), [BackEnd](https://github.com/abeertech01/redbook-server)
 
 - 🌱 I’m currently learning **NextJs**
