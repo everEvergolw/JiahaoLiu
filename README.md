@@ -4,24 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
-- I am currently developing my new project, Redbook - Social Media App - [FrontEnd](https://github.com/abeertech01/redbook-client), [BackEnd](https://github.com/abeertech01/redbook-server)
+- I am currently developing my new project, OnlineShop Web - [FrontEnd](https://github.com/abeertech01/redbook-client), [BackEnd](https://github.com/abeertech01/redbook-server)
 
-- 🌱 I’m currently learning **Python🐍 and React Native⚛️**
+- 🌱 I’m currently learning **NextJs**
 
-- 📝 I occasionally write articles on [https://abeer.hashnode.dev](https://abeer.hashnode.dev)
+- 📫 How to reach me **jiahaoliu0313@gmail.com**
 
-- 💬 Ask me about **JavaScript, TypeScript and MERN stack (Including NextJS)**
-
-- 📫 How to reach me **abeer.technology@gmail.com**
-
-- 📄 DM me on Linkedin [https://linkedin.com/in/abeertech01](https://linkedin.com/in/abeertech01)
+- 📄 DM me on Linkedin [https://www.linkedin.com/in/jiahao-liu-0a1697253/](https://www.linkedin.com/in/jiahao-liu-0a1697253/)
 
 - ⚡ Fun fact **Secretly I'm the Iron man. Shhh... 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abeertech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abeertech01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abeertech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abeertech01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jiahao-liu-0a1697253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abeertech01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
